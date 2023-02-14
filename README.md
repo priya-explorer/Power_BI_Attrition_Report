@@ -12,9 +12,10 @@
 - To find insights for HR department about the important factors associated with the attrition from the data collected. So that, the HR can take preventive measures to control the attrition in the organization.
 
 
-Power Query
-- Clean and Prepare Data
+Using Power Query we do the following:
+  - Clean and Prepare Data
   - Check the data and its data types
-  - Find Blank cells and handle
+  - Check for Blank cells 
+  - Find missing value
   - Remove dupliactes
   - Remove columns with constant values 
